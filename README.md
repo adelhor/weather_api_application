@@ -1,4 +1,4 @@
-# Weather Information Retrieval System
+# Weather Information Search System ☀️🌦🌨
 
 This repository hosts a Python-based system designed to fetch and display weather information. It integrates external API services to retrieve current weather data for any specified city, offering insights into temperature, pressure, and humidity levels alongside user-friendly emoji representations.
 
